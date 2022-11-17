@@ -1,3 +1,4 @@
+<!-- my original project sourcecode -->
 <?php
 require 'constants/config.php';
 require 'constants/check-login.php';
