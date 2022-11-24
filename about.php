@@ -153,7 +153,7 @@ Home
 <li>
 <li class="active" >
 <a href="about">
-About
+Abouts
 </a>
 <li>
 </ul>
