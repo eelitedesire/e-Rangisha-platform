@@ -1,3 +1,4 @@
+<!-- Woow this is my course -->
 <?php
 require 'constants/config.php';
 require 'constants/check-login.php';
